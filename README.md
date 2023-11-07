@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+![image title](https://KhaoulaIB.com/counter.svg)
 
 
