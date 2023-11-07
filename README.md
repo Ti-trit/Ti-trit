@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=KhaoulaIB)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=KhaoulaIB.KhaoulaIB)
 
 
