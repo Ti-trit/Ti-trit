@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=KhaoulaIB)
 
-Fun fact: Not being chosen if being chosen.
+
+⚡Fun fact: Not being chosen is being chosen.
 This wisdom was brought to you by C(n,k)=n!/(k!(n-k)!).
 
 
