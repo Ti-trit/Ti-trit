@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-⚡ Fun fact: Not being chosen if being chosen.
-  This wisdom was brought to you by C(n,k)=n!/(k!(n-k)!).
--->
+
 
 
 ![](https://komarev.com/ghpvc/?username=KhaoulaIB)
+⚡ Fun fact: Not being chosen if being chosen.
+  This wisdom was brought to you by C(n,k)=n!/(k!(n-k)!).
