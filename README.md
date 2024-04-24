@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=KhaoulaIB)
 
 
-⚡Fun fact: Si la tierra fuese plana los gatos ya habrían tirado todo por el borde! 
+⚡Fun fact: Si la tierra fuese plana, los gatos ya habrían tirado todo por el borde! 
 
 
